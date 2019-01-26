@@ -1,0 +1,2 @@
+# DA1LiangBarskyLineClippingAlgorithm
+This is Liang Barsky algorithm Tutorial video whose code is there in Github.  Its work is to clip the line using Parametric equation  and can be used to extend line clipping in 3D space.(Sorry Forgot to mention in the video) As it is very versatile in nature it finds in utility everywhere including the PIL library used in the code which uses the algorithm for drawing line inside our specified window.
